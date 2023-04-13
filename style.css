@@ -1,0 +1,17 @@
+#ticket{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: 2rem 5rem;
+ flex-wrap: wrap;
+}
+.ticketCard{
+ border: 2px solid blue;
+ padding: 2rem;
+ border-radius: 1rem;
+ width: 20rem;
+ margin: 1rem;
+}
+h1{
+ color: rgb(78, 78, 250);
+}
